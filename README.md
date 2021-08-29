@@ -1,16 +1,20 @@
 ### Hi there 👋
+![MarsBanner](https://d33wubrfki0l68.cloudfront.net/0c1f2b3a7db2b90f7c24915eb8b1223bbd80d3e5/d5c2a/static/b87971fa3d35839c9b909d9dffc76dc9/frontend.png)
 
-<!--
-**kimvanha01/kimvanha01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Kim Van Ha - Web Frontend Developer
 
-Here are some ideas to get you started:
+- Open and friendly.
+- Love to learn new things, especially things related to Frontend stacks.
+- Enjoy working with ReactJS ❤
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Working <a href="https://github.com/kimvanha01"><img align="left" width="auto" height="200" src="https://scontent.fhan14-2.fna.fbcdn.net/v/t1.6435-9/149393821_1819473348219505_5305432214309479052_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=BxVGtvmKafoAX-a_jaY&_nc_ht=scontent.fhan14-2.fna&oh=9fff264a5048ba5fb5ba1844ca1a1c47&oe=6150E92F"></a>
+
+
+## Projects for sharing
+
+- React Redux Photo App: https://github.com/paulnguyen-mn/posts-ui
+- Gymax Shop HTML-LESS: https://github.com/kimvanha01/training-frontend-aht.git
+- Mars Shop ReactJS Redux : https://github.com/kimvanha01/Ecommerce-react.git 
+- React todo app: https://github.com/kimvanha01/todo-react-redux.git
+- Portfolio: https://github.com/kimvanha01/portfolio-html-css-js.git
+
