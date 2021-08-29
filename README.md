@@ -1,4 +1,4 @@
-![MarsBanner](https://github.com/kimvanha01/kimvanha01/header.png)
+![MarsBanner](https://github.com/kimvanha01/kimvanha01/blob/main/header.png)
 
 # Kim Van Ha - Web Frontend Developer
 
