@@ -1,4 +1,3 @@
-### Hi there 👋
 ![MarsBanner](https://d33wubrfki0l68.cloudfront.net/0c1f2b3a7db2b90f7c24915eb8b1223bbd80d3e5/d5c2a/static/b87971fa3d35839c9b909d9dffc76dc9/frontend.png)
 
 # Kim Van Ha - Web Frontend Developer
@@ -7,7 +6,13 @@
 - Love to learn new things, especially things related to Frontend stacks.
 - Enjoy working with ReactJS ❤
 
-## Working <a href="https://github.com/kimvanha01"><img align="left" width="auto" height="200" src="https://scontent.fhan14-2.fna.fbcdn.net/v/t1.6435-9/149393821_1819473348219505_5305432214309479052_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=BxVGtvmKafoAX-a_jaY&_nc_ht=scontent.fhan14-2.fna&oh=9fff264a5048ba5fb5ba1844ca1a1c47&oe=6150E92F"></a>
+## Working 
+- AHT JSC 
+- Study Infomation Technology at Post and Telecommunications Institute of Technology
+- Phone: 0961549690
+- Email: Kimvanha1999@gmail.com
+
+<a href="https://github.com/kimvanha01"><img align="left" width="auto" height="200" src="https://scontent.fhan14-2.fna.fbcdn.net/v/t1.6435-9/149393821_1819473348219505_5305432214309479052_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=BxVGtvmKafoAX-a_jaY&_nc_ht=scontent.fhan14-2.fna&oh=9fff264a5048ba5fb5ba1844ca1a1c47&oe=6150E92F"></a>
 
 
 ## Projects for sharing
