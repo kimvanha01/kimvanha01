@@ -1,4 +1,4 @@
-![MarsBanner](https://d33wubrfki0l68.cloudfront.net/0c1f2b3a7db2b90f7c24915eb8b1223bbd80d3e5/d5c2a/static/b87971fa3d35839c9b909d9dffc76dc9/frontend.png)
+![MarsBanner](https://github.com/kimvanha01/kimvanha01/header.png)
 
 # Kim Van Ha - Web Frontend Developer
 
