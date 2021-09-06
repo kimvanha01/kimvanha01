@@ -17,8 +17,8 @@
 ### Projects for sharing
 
 - React Redux Photo App: https://github.com/paulnguyen-mn/posts-ui
-- Gymax Shop HTML-LESS: https://github.com/kimvanha01/training-frontend-aht.git
 - Mars Shop ReactJS Redux : https://github.com/kimvanha01/Ecommerce-react.git 
-- React todo app: https://github.com/kimvanha01/todo-react-redux.git
+- React todo app: https://github.com/kimvanha01/mars-todo-react-redux.git
 - Portfolio: https://github.com/kimvanha01/portfolio-html-css-js.git
+- Gymax Shop HTML-LESS: https://github.com/kimvanha01/training-frontend-aht.git
 
