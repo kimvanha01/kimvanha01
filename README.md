@@ -16,7 +16,7 @@
 
 ### Projects for sharing
 
-- React Redux Photo App: https://github.com/paulnguyen-mn/posts-ui
+- React Redux Photo App: https://github.com/kimvanha01/Photo-App-React-Redux.git
 - Mars Shop ReactJS Redux : https://github.com/kimvanha01/Ecommerce-react.git 
 - React todo app: https://github.com/kimvanha01/mars-todo-react-redux.git
 - Portfolio: https://github.com/kimvanha01/portfolio-html-css-js.git
